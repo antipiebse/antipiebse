@@ -15,6 +15,8 @@
 부트캠프에서 [팀 프로젝트](https://www.notion.so/Keystom-949b5b695de045baa2cf78c453ffb7b9)를 진행할 당시 **결제API, 각종 CRUD, ERD설계, Github 관리, 배포** 등을 도맡아서 했습니다. 
 
 수료 후 기존에 작성한 코드들을 리팩토링하고 있으며 NestJS를 RestAPI 방식을 사용해서 간단한 블로그 서버를 구축하고 있습니다.
+
+현재 슬로그업이라는 회사에서 백엔드 개발자로 근무중입니다.
 <br>
 <br>
 이력서 겸 포트폴리오: **[Notion](https://childlike-cirrus-86c.notion.site/822d32ab37ca4ba1a2cf9f22869c5357)**
