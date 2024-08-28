@@ -19,7 +19,7 @@
 현재 [슬로그업]에서 백엔드 개발자로 근무중입니다.
 <br>
 <br>
-이력서 겸 포트폴리오: **[Notion](https://childlike-cirrus-86c.notion.site/822d32ab37ca4ba1a2cf9f22869c5357)**
+이력서 겸 포트폴리오: **[Notion]([https://childlike-cirrus-86c.notion.site/822d32ab37ca4ba1a2cf9f22869c5357](https://childlike-cirrus-86c.notion.site/b41d1eb3536d4cb8a7001884e56280df?pvs=4))**
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=antipiebse&show_icons=true&theme=tokyonight">
